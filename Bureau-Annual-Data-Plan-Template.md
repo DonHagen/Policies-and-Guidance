@@ -8,15 +8,16 @@ General guidelines:
 4. A common phrase used in this template is "data product", this refers to any document, file, visualization, report, index, press release, blog, software, web site, web platform, web service, or other information service that is created and published and that supports the Department of Commerce's "Open for Business" Strategic Plan.
 
 # Sample 2016 Data Plan
-## Bureau XYZ
+National Techncial Information Service
 
 ###Bureau's Mission: 
-To support America's economic prosperity and its competitiveness abroad.  Bureau's desired outcomes under the [Department's Strategic Plan](http://2010-2014.commerce.gov/sites/default/files/documents/2014/march/doc_fy2014-2018_strategic_plan.pdf) for Data are:
+Clearinghouse of scientific and technicnal technical reports and data.
 
-* Improved dissemination pathways for information that is already public.
-* Stronger and more engaged users around data products.
-* Higher quality data products that is more responsive to customer requests.
-* Continued vigilance in the rigorous protection of privacy and confidentiality.
+* Improved dissemination pathways for information that is already public vai the National Technical Reports Library.
+* Operate in an Open (free)/Public (registered) and Premium versions
+* Developed standard metadata to enhance discovery
+* Full text of PDFs in coopertative-sharing of newly digitized reports
+
 
 ###Annual Data Deliverables:
 
